@@ -1,0 +1,30 @@
+{
+    "upload_type": "publication",
+    "publication_type": "other",
+    "publication_date": "2018-01-29",
+    "creators": [
+        {
+            "name": "von Waldow, Harald",
+            "orcid": "0000-0003-4800-2833",
+            "affiliation": "Eawag: Swiss Federal Institute of Aquatic Science and Technology"
+        }
+    ],
+    "title": "The Eawag SNF / SNSF Data Management Plan Guide",
+    "version": "1.1",
+    "access_right": "open",
+    "license": "cc-zero",
+    "related_identifiers": [
+        {
+            "identifier": "https://doi.org/ 10.25678/000033",
+            "relation": "obsoletes",
+            "resource_type": "publication-article"
+        }
+    ],
+    "keywords": [
+        "data management plan",
+        "research data management",
+        "SNSF",
+        "Eawag"
+    ],
+    "language": "eng"
+}
