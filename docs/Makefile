@@ -5,8 +5,8 @@
 SPHINXOPTS    = -a -E
 SPHINXBUILD   = python -msphinx
 SPHINXPROJ    = Eawag_SNSF_DMP_Guide
-SOURCEDIR     = .
-BUILDDIR      = _build
+SOURCEDIR     = source
+BUILDDIR      = build
 
 # Put it first so that "make" without argument is like "make help".
 help:
